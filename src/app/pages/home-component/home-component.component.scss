@@ -1,0 +1,36 @@
+.home{
+    
+    background-color: #121212;
+}
+
+.textbox{
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 50%;
+    color: #fff;
+    text-align: center;
+    
+}
+.tagline{
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 40%;
+    color: #fff;
+    text-align: center;
+     
+}
+.tagline img{
+    object-fit: cover;
+    width: 60%;
+}
+.textbox .Q{
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+}
+.textbox .soft{
+    object-fit: cover;
+    width: 40% ;
+}
